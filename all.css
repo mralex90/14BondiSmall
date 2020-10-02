@@ -1,0 +1,25 @@
+
+*{
+    box-sizing: border-box; 
+} 
+
+body{
+  background: #eff7fa;
+}
+.header-content{
+  width: 240px;
+  margin: auto;
+  margin-top: 60px;
+}
+.logo-header{
+  text-align: center;
+  margin-bottom: 45px;
+}
+.h1{
+  font: 35px;
+  color: #1a2940;
+  margin-top: 45px;
+}
+/* .h1 span{
+  font: 15px/20px;
+} */
